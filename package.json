@@ -1,0 +1,23 @@
+{
+  "name": "decentralized-voting",
+  "version": "1.0.0",
+  "description": "A decentralized voting system using blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://x-access-token:fcdaae80d38441685ca05d0285718ab2f2312783@github.com/axelgalicia/decentralized-voting.git"
+  },
+  "author": "Axel Galicia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelgalicia/decentralized-voting/issues"
+  },
+  "homepage": "https://github.com/axelgalicia/decentralized-voting#readme",
+  "dependencies": {
+    "ganache-cli": "^6.1.8",
+    "web3": "^1.0.0-beta.36"
+  }
+}
