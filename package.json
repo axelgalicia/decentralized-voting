@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://x-access-token:fcdaae80d38441685ca05d0285718ab2f2312783@github.com/axelgalicia/decentralized-voting.git"
+    "url": "https://github.com/axelgalicia/decentralized-voting.git"
   },
   "author": "Axel Galicia",
   "license": "ISC",
